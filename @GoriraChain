@@ -1,1 +1,14 @@
-# audits
+
+# audits 0x3fF651B3964d6c8d6A788BD83f1784EaCF0E74D2
+
+ Gorira Chain ~ (Cross-chain Automated Market Maker)
+
+This gives anyone the ability to create a market by depositing their crypto assets into a liquidity pool.
+
+Gorira Chain is a cross-chain automated market maker (“AMM”) on Binance chain that enables two tokens to be exchanged on the Binance Smart Chain. Different tokens are traded on our platform.
+
+The Automated Market Maker (AMM) model simply implies that while trading digital assets on the exchange/platform, there is typically no order book where you are paired with another person.
+
+Alternatively, you trade against a liquidity pool. Those pools are filled with funds from other users. They deposit into the pool, receiving liquidity provider (or LP) tokens in return. 
+
+The basic trading functionality of Gorira Chain comes directly from the pankcakeswap codebase. Liquidity providers are incentivized for providing liquidity to trading pairs with rewards drawn from the fees paid by users swapping among the paired assets.
